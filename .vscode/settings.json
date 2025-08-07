@@ -1,0 +1,22 @@
+{
+    "files.autoSave": "afterDelay",
+    
+    
+    "files.exclude": {
+        "**/bin": true,        // Oculta a pasta bin
+        "**/obj": true,        // Oculta a pasta obj
+        "**/.git": true,       // Geralmente já vem, oculta pasta .git
+        "**/.DS_Store": true,  // Oculta arquivos do macOS
+        "**/*.csproj": true,   // OCULTA TODOS OS ARQUIVOS .csproj
+        "**/*.sln": true,      // OCULTA TODOS OS ARQUIVOS .sln
+        "**/*.csproj.user": true, // Oculta arquivos de usuário do projeto
+        "**/*.vspscc": true,   // Oculta outros arquivos de controle de código fonte
+        "**/*.log": true,      // Opcional: Oculta arquivos de log
+        "**/[Bb]in": true,     // Opcional: Para sistemas que diferenciam maiúsculas/minúsculas
+        "**/[Oo]bj": true,     // Opcional: Para sistemas que diferenciam maiúsculas/minúsculas
+        // Adicionei esses para ocultar os arquivos que você mencionou:
+        "**/.vscode/*.json": false, // Garante que o settings.json dentro de .vscode continue visível
+        "**/C# .NET.csproj": true, // Oculta especificamente esse csproj se os genéricos não funcionarem
+        "**/C# .NET.sln": true // Oculta especificamente esse sln se os genéricos não funcionarem
+    }
+}

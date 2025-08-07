@@ -1,0 +1,14 @@
+/Users/weslleysoares/Desktop/Dio.o_Estudos/bin/Debug/net9.0/Dio.o_Estudos
+/Users/weslleysoares/Desktop/Dio.o_Estudos/bin/Debug/net9.0/Dio.o_Estudos.deps.json
+/Users/weslleysoares/Desktop/Dio.o_Estudos/bin/Debug/net9.0/Dio.o_Estudos.runtimeconfig.json
+/Users/weslleysoares/Desktop/Dio.o_Estudos/bin/Debug/net9.0/Dio.o_Estudos.dll
+/Users/weslleysoares/Desktop/Dio.o_Estudos/bin/Debug/net9.0/Dio.o_Estudos.pdb
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.AssemblyInfoInputs.cache
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.AssemblyInfo.cs
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.csproj.CoreCompileInputs.cache
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.dll
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/refint/Dio.o_Estudos.dll
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.pdb
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.genruntimeconfig.cache
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/ref/Dio.o_Estudos.dll
