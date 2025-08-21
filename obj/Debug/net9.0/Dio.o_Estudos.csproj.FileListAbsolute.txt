@@ -12,3 +12,4 @@
 /Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.pdb
 /Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.genruntimeconfig.cache
 /Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/ref/Dio.o_Estudos.dll
+/Users/weslleysoares/Desktop/Dio.o_Estudos/obj/Debug/net9.0/Dio.o_Estudos.sourcelink.json
