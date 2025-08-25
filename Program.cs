@@ -1,8 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Data;
 using System.Runtime.CompilerServices;
-using Dio.o_Estudos.ConceitoDeClass;
-using Dio.o_Estudos.ConceitoDeClass.Model;
+using ExemplosFundamentos.com.Model;
 
 // Console.WriteLine("Hello, World!");
 // Console.WriteLine("exemplo");
@@ -173,14 +172,26 @@ cal.RaizQuadrada(3);
 
 //Incrmento e decremento 
 
-int numero = 10;
+int numeros = 10;
 
-Console.WriteLine($"{numero}");
+Console.WriteLine($"{numeros}");
 
 Console.WriteLine($"Incremnto o 10");
 
-numero++;  // numero = numero + 1;
+numeros++;  // numero = numero + 1;
 // Para decremento é só colocar numero--;
-Console.WriteLine(numero);
+Console.WriteLine(numeros);
 
 
+//For laço de repetição 
+
+int numero = 5;
+
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine($"{numero} x {i} = {numero * i}");
+
+} 
+
+
+//Depois de criar uma solution project

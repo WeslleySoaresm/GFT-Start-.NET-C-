@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "Dio.o_Estudos/1.0.0": {
+        "dependencies": {
+          "ExemplosFundamentos.com": "1.0.0"
+        },
         "runtime": {
           "Dio.o_Estudos.dll": {}
+        }
+      },
+      "ExemplosFundamentos.com/1.0.0": {
+        "runtime": {
+          "ExemplosFundamentos.com.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Dio.o_Estudos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemplosFundamentos.com/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
