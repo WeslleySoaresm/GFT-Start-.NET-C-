@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DI/BlFqF3GA=",
+  "success": true,
+  "projectFilePath": "/Users/weslleysoares/GFT-Start-.NET-C-/GFT-Start-.NET-C-.arrayList/GFT-Start-.NET-C-.arrayList.csproj",
+  "expectedPackageFiles": [
+    "/Users/weslleysoares/.nuget/packages/system.text.json/9.0.8/system.text.json.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
