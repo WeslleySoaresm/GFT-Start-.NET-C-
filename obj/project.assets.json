@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {
-      "ExemplosFundamentos.com/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/ExemplosFundamentos.com.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ExemplosFundamentos.com.dll": {}
-        }
-      }
-    }
+    "net9.0": {}
   },
-  "libraries": {
-    "ExemplosFundamentos.com/1.0.0": {
-      "type": "project",
-      "path": "../ExemplosFundamentos.com/ExemplosFundamentos.com.csproj",
-      "msbuildProject": "../ExemplosFundamentos.com/ExemplosFundamentos.com.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": [
-      "ExemplosFundamentos.com >= 1.0.0"
-    ]
+    "net9.0": []
   },
   "packageFolders": {
     "/Users/weslleysoares/.nuget/packages/": {}
@@ -32,12 +13,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/weslleysoares/Desktop/Dio.o_Estudos backp/ExemploFundamentos/Dio.o_Estudos.csproj",
-      "projectName": "Dio.o_Estudos",
-      "projectPath": "/Users/weslleysoares/Desktop/Dio.o_Estudos backp/ExemploFundamentos/Dio.o_Estudos.csproj",
+      "projectUniqueName": "/Users/weslleysoares/GFT-Start-.NET-C-/GFT-Start-.NET-C-.csproj",
+      "projectName": "GFT-Start-.NET-C-",
+      "projectPath": "/Users/weslleysoares/GFT-Start-.NET-C-/GFT-Start-.NET-C-.csproj",
       "packagesPath": "/Users/weslleysoares/.nuget/packages/",
-      "outputPath": "/Users/weslleysoares/Desktop/Dio.o_Estudos backp/ExemploFundamentos/obj/",
+      "outputPath": "/Users/weslleysoares/GFT-Start-.NET-C-/obj/",
       "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
         "/Users/weslleysoares/.nuget/NuGet/NuGet.Config"
       ],
@@ -50,11 +32,7 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {
-            "/Users/weslleysoares/Desktop/Dio.o_Estudos backp/ExemplosFundamentos.com/ExemplosFundamentos.com.csproj": {
-              "projectPath": "/Users/weslleysoares/Desktop/Dio.o_Estudos backp/ExemplosFundamentos.com/ExemplosFundamentos.com.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -72,6 +50,9 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "centralPackageVersions": {
+          "System.Text.Json": "9.0.8"
+        },
         "imports": [
           "net461",
           "net462",
